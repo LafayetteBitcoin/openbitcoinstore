@@ -1,0 +1,41 @@
+== Changelog ==
+
+= Theme Name: Blackbird Theme Pro=
+
+= Version: 1.1.5 =
+
+* Previous ticket required issues fixed.
+
+= Version: 1.1.4 =
+
+* Untranslated localization issue is now fixed
+
+* Improve Code quality.
+
+* Remove unnecessary text.
+
+= Version: 1.1.3 =
+
+* Undefined Index fixed.
+
+* Code optimized.
+
+* Text domain untranslated fixed.
+
+= Version: 1.1.2 =
+
+* Optimized codes.
+
+* Removed unwanted text strings.
+
+= Version: 1.1.1 =
+
+* Miner Change In Admin Css.
+
+= Version: 1.1 =
+
+* Header Html Errox Fixed.
+
+= Version: 1.0 =
+
+* Blackbird Theme is created on 9/07/2012.

@@ -1,0 +1,220 @@
+/* BUTTONS */
+/* ----------------------------------------- */
+.button span {
+    display: block;
+    position: absolute;
+    top: 0px;
+    right: -20px;
+    width: 20px;
+    height: 37px;
+    background-position: right top;
+}
+.button, .button span {
+    background-image: url(button-image/button.png);
+    float: left;
+}
+.button:hover {
+    background-position: left -37px;
+    text-decoration: none;
+}
+.button:hover span {
+    background-position: right -37px;
+    text-decoration: none;
+}
+a.button2, a.button2:link, a.button2:visited {
+    display: block;
+    position: relative;
+    padding: 0 0 0 12px;
+    height: 31px;
+    text-align: center;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: normal;
+    color: #3a3a3a;
+    cursor: pointer;
+    margin-top:10px;
+    font-family:'QlassikMediumRegular', Tahoma, Arial, sans-serif;
+    text-shadow: 0px 1px 0px #ffffff;
+}
+a.button2 span {
+    display: block;
+    position: absolute;
+    top: 0px;
+    right: -12px;
+    width: 12px;
+    height: 31px;
+    background-position: right top;
+}
+a.button2, a.button2 span {
+    background-image: url(button-image/button2.png);
+    float: left;
+}
+a.button2:hover, li.selected {
+    background-position: left -31px;
+    text-decoration: none;
+}
+a.button2:hover span, li.selected span {
+    background-position: right -31px;
+    text-decoration: none;
+}
+.button a, a.button2 {
+    color: #3a3a3a;
+}
+.button2.blue, .button2.blue span {
+    background-image: url(button-image/bluebutton2.png);
+    float: left;
+    color:#6288a9;
+    text-shadow: 0px 1px 0px #c7e5da;
+}
+
+.button2.pink, .button2.pink span {
+    background-image: url(button-image/pinkbutton2.png);
+    float: left;
+    color:#b17aac;
+    text-shadow: 0px 1px 0px #ecd8ea;
+}
+
+.button2.green, .button2.green span {
+    background-image: url(button-image/greenbutton2.png);
+    float: left;
+    color:#538976;
+    text-shadow: 0px 1px 0px #c7e5da;
+}
+
+.button2.brown, .button2.brown span {
+    background-image: url(button-image/brownbutton2.png);
+    float: left;
+    color: #8e7d5c;
+    text-shadow: 0px 1px 0px #e4ddd0;
+}
+
+.button2.yellow, .button2.yellow span {
+    background-image: url(button-image/yellowbutton2.png);
+    float: left;
+    color:#868a4a;
+    text-shadow: 0px 1px 0px #d8dabc;
+}
+.button.pink, .button.pink span {
+    background-image: url(button-image/pinkbutton.png);
+    float: left;
+    color:#b17aac;
+    text-shadow: 0px 1px 0px #ecd8ea;
+}
+
+.button.green, .button.green span {
+    background-image: url(button-image/greenbutton.png);
+    float: left;
+    color:#538976;
+    text-shadow: 0px 1px 0px #c7e5da;
+}
+
+.button.brown, .button.brown span {
+    background-image: url(button-image/brownbutton.png);
+    float: left;
+    color: #8e7d5c;
+    text-shadow: 0px 1px 0px #e4ddd0;
+}
+
+.button.yellow, .button.yellow span {
+    background-image: url(button-image/yellowbutton.png);
+    float: left;
+    color:#868a4a;
+    text-shadow: 0px 1px 0px #d8dabc;
+}
+a.button.blue, a.button2.blue {
+    color:#6288a9;
+    text-shadow: 0px 1px 0px #c7e5da;
+}
+
+a.button.green, a.button2.green {
+    color:#538976;
+    text-shadow: 0px 1px 0px #c7e5da;
+}
+
+a.button.pink, a.button2.pink {
+    color:#b17aac;
+    text-shadow: 0px 1px 0px #ecd8ea;
+}
+
+a.button.yellow, a.button2.yellow {
+    color:#868a4a;
+    text-shadow: 0px 1px 0px #d8dabc;
+}
+
+a.button.brown, a.button2.brown {
+    color: #8e7d5c;
+    text-shadow: 0px 1px 0px #e4ddd0;
+}
+/**CUSTOMIZED BUTTONS**/
+a.buttons, a.buttons:link, a.buttons:visited {
+    display: block;
+    position: relative;
+    padding: 0 17px 0 17px;
+    height: 30px;
+    text-align: center;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: normal;
+    color: #3a3a3a;
+    cursor: pointer;
+    margin-top:10px;
+    font-family:'QlassikMediumRegular', Tahoma, Arial, sans-serif;
+    text-shadow: 0px 1px 0px #ffffff;
+    text-decoration: none;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+a.buttons.white{
+    background: url('button-image/sprite-button.png') no-repeat 0 0;
+    float: left;
+}
+a.buttons.blue{
+    background: url('button-image/sprite-button.png') no-repeat 0 -40px;
+    float: left;
+    color:#245d9a;  
+    text-shadow: 0px 1px 0px #8cadcf;
+}
+a.buttons.blue:hover{
+    background-position: 0 -81px;
+}
+a.buttons.red{
+    background: url('button-image/sprite-button.png') no-repeat 0 -121px;
+    float: left;
+    color:#a42f27;  
+    text-shadow: 0px 1px 0px #c57e79;
+}
+a.buttons.red:hover{
+    background-position:0 -161px;
+}
+a.buttons.gray{
+    background: url('button-image/sprite-button.png') no-repeat 0 -200px;
+    float: left;
+    color:#848484;  
+    text-shadow: 0px 1px 0px #e1dfdf;
+}
+a.buttons.gray:hover{
+    background-position:0 -240px;
+}
+a.buttons.green{
+    background: url('button-image/sprite-button.png') no-repeat 0 -280px;
+    float: left;
+    color:#2b8f31;  
+    text-shadow: 0px 1px 0px #8ed293;
+}
+a.buttons.green:hover{
+    background-position: 0 -320px;
+}
+a.buttons.yellow{
+    background: url('button-image/sprite-button.png') no-repeat 0 -363px;
+    float: left;
+    color:#827c07;  
+    text-shadow: 0px 1px 0px #d0cc77;
+}
+a.buttons.yellow:hover{
+    background-position:0 -404px;
+}

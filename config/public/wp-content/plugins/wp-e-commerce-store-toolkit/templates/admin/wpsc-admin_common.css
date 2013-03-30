@@ -1,0 +1,11 @@
+/* =Manage Sales
+-------------------------------------------------------------- */
+
+body.dashboard_page_wpsc-purchase-logs td.column-actions {
+	padding:5px 0 0 0;
+}
+body.dashboard_page_wpsc-purchase-logs td.column-actions input,
+body.dashboard_page_wpsc-purchase-logs td.column-actions a {
+	display:inline-block;
+	margin-right:4px;
+}
