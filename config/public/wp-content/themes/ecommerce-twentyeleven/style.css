@@ -1,0 +1,21 @@
+/*
+Theme Name: eCommerce Twenty Eleven
+Theme URI: http://extend.thecartpress.com/ecommerce-themes/twentyeleven-ecommerce/
+Author: thecartpress
+Author URI: http://extend.theCartPress.com/
+Description: eCommerce features for WordPress default theme. Convert your WordPress installation into a powerful e-commerce, store or ahop.
+Version: 1.0
+License: GNU General Public License
+License URI: license.txt
+Tags: ecommerce, shop, store, shopping, sales, twenty eleven, twentyeleven, commerce
+Template: twentyeleven
+Status: unpublished
+
+eCommerce Twenty Eleventheme is a child theme of Twenty eleven theme, converts your WordPress installation into a e-commerce, store or ahop.
+*/
+@import url("../twentyeleven/style.css");
+@import url("css/main.css");
+
+
+
+
