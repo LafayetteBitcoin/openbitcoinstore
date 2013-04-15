@@ -1,0 +1,3 @@
+[submodule "config/public/wp-content/plugins/woocommerce-btc-currency"]
+	path = config/public/wp-content/plugins/woocommerce-btc-currency
+	url = https://github.com/openbitcoinstore/woocommerce-btc-currency.git
