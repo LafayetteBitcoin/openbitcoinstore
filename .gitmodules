@@ -4,3 +4,6 @@
 [submodule "config/public/wp-content/plugins/woocommerce-bitpay"]
 	path = config/public/wp-content/plugins/woocommerce-bitpay
 	url = https://github.com/openbitcoinstore/woocommerce-bitpay.git
+[submodule "config/public/wp-content/plugins/woocommerce"]
+	path = config/public/wp-content/plugins/woocommerce
+	url = https://github.com/openbitcoinstore/woocommerce
