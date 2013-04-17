@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Creative Commons Configurator 1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-24 18:36+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Team Blogos <wordpress@blogos.dk>\n"
+"Language-Team: Team Blogos <wordpress@blogos.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=n != 1;\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_c;_e;__ngettext:1,2;__ngettext_noop:1,2;_n:1,2;_nc:1,2;_n_noop:1,2\n"
+"X-Poedit-Basepath: d:\\wordpress\\plugins\\creative-commons-configurator-1\n"
+"X-Poedit-SearchPath-0: d:\\wordpress\\plugins\\creative-commons-configurator-1\n"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:101
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:279
+msgid "License Options"
+msgstr "License-indstillinger"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:101
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:488
+msgid "License"
+msgstr "License"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:174
+msgid "Creative Commons license options saved."
+msgstr "Indstillinger for Creative Commons License gemt."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:182
+msgid "Creative Commons license options deleted from the WordPress database."
+msgstr "Indstillinger for Creative Commons license er slettet i WordPress' database."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:217
+msgid "Creative Commons license saved."
+msgstr "Creative Commons-licensen er gemt."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:248
+msgid "Select a Creative Commons license"
+msgstr "Vælg en Creative Commons licens"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:249
+msgid "Welcome to the Creative Commons license configurator for WordPress."
+msgstr "Velkommen til Creative Commons licens-konfigurator for WordPress."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:250
+msgid "The following link leads to the Creative Commons license selection engine. After you have selected your license, you will be directed back to this page."
+msgstr "Det følgende link fører dig til Creative Commons licensvalg. Når du har valgt din licens, vil du blive dirigeret tilbage til denne side."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:251
+msgid "Please"
+msgstr "Venligst"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:251
+msgid "select a Creative Commons license"
+msgstr "vælg en Creative Commons licens"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:264
+msgid "Current License"
+msgstr "Aktuel licens"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:268
+msgid "Information"
+msgstr "Information"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:269
+msgid "If you need to use a different license for your blog, press the <em>Reset License</em> button."
+msgstr "Hvis du ønsker at bruge en anden licens på din blog, så tryk på <em>Nulstil licens</em>-knappen."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:270
+msgid "By reseting the license, the saved plugin options are removed from the WordPress database. Consider reseting the license before uninstalling the plugin, so that no trace of it is left in the WordPress database."
+msgstr "Hvis du nulstiller licensen, fjernes de gemte indstillinger i WordPress-databasen. Overvej at nulstille licensen, inden du afinstallerer pluginnet, så der er ikke spor tilbage af den i WordPress' database."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:273
+msgid "Reset License"
+msgstr "Nulstil licens"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:280
+msgid "Here you can choose where and how license information should be added to your blog."
+msgstr "Her kan du vælge, hvor og hvordan licensinformationen skal tilføjes til din blog."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:283
+msgid "Page Head (HTML)"
+msgstr "Side-head (HTML)"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:288
+msgid "Include license information in the page's HTML head. This will not be visible to human visitors, but search engine bots will be able to read it. (Recommended)"
+msgstr "Inkluderer licensinformation i siden HTML-head. Dette kan ikke umiddelbart ses, men søgemaskiner kan læse det. (Anbefales)"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:293
+msgid "Syndicated Content"
+msgstr "Syndikeret indhold"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:298
+msgid "Include license information in the blog feeds. (Recommended)"
+msgstr "Inkluderer licensinformation i blog-feeds. (Anbefalet)"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:303
+msgid "Under the published content"
+msgstr "Under det udgivne indhold"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:304
+msgid "By enabling the following option, a small block of text, which contains links to the author, the work and the used license, is appended to the published content. (Recommended)"
+msgstr "Hvis du aktiverer den følgende indstilling, tilføjes en lille blok med tekst, som indholder links til forfatteren, værket og den anvendte licens, til det udgivne indhold. (Anbefales)"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:309
+msgid "Add the text block with license information under the published content in single-post view."
+msgstr "Tilføj tekstblok med licensinformation og det udgivne indhold, når enkelt-indlæg vises."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:318
+msgid "Include the license image in the text block."
+msgstr "Inkludér licensikon i tekstblokken."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:326
+msgid "Include extended information about the published work and its creator. By enabling this option, hyperlinks to the published content and its creator/publisher are also included into the license statement inside the block. This, by being an attribution example itself, will generally help others to attribute the work to you."
+msgstr "Inkludér udvidet information om det udgivne værk og dets ophavsmand. Ved at aktivere denne indstilling, inkluderes hyperlinks til det udgivne indhold og dets skaber/udgiver også i licensoplysningerne i blokken. Det vil generelt hjælpe andre med at anerkende dig som ophavsmand og er selv et eksempel på en sådan anerkendelse."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:343
+msgid "If extended information about the published work has been enabled, then you can choose which name will indicate the creator of the work. By default, the blog name is used."
+msgstr "Hvis udvidet information om det udgivne værk er blevet aktiveret, kan du vælge navnet på skaberen af/ophavsmanden til værket. Som standard bruges blognavnet."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:351
+msgid "If you have added any extra permissions to your license, provide the URL to the webpage that contains them. It is highly recommended to use absolute URLs, for example"
+msgstr "Hvis du har tilføjet ekstra tilladelser til din licens, så anfør URL&#39;en til websiden, som beskriver dem. Det anbefales stærkt at bruge absolutte URL&#39;er, f.eks."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:356
+msgid "Colors of the license block"
+msgstr "Farver på licensblokken"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:363
+msgid "Set a color for the text that appears within the block (does not affect hyperlinks)"
+msgstr "Vælg en farve til teksten, som vises inden i blokken (påvirker ikke hyperlinks)"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:365
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:372
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:379
+msgid "Default"
+msgstr "Standard"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:370
+msgid "Set a background color for the block."
+msgstr "Vælg en baggrundsfarve for blokken."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:377
+msgid "Set a color for the border of the block."
+msgstr "Vælg en farve til blokkens ramme."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:387
+msgid "Disable the internal formatting of the license block. If the internal formatting is disabled, then the color selections above have no effect any more. You can still format the license block via your own CSS. The <em>cc-block</em> and <em>cc-button</em> classes have been reserved for formatting the license block and the license button respectively."
+msgstr "Deaktivér den indre formattering af licensblokken. Hvis den indre formattering er deaktiveret, har farvevalgene ovenfor ikke længere nogen effekt. Du kan stadig formattere licensblokken med din egen CSS. <em>cc-block</em> og <em>cc-button</em>-klasserne er reserveret for formattering af henholdsvis licensblokken og licensknappen."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:400
+msgid "Update Options"
+msgstr "Opdatér indstillinger"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:406
+msgid "Advanced Info"
+msgstr "Avanceret information"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:407
+msgid "Apart from the options above for the inclusion of licensing information in your blog, this plugin provides some <em>Template Tags</em>, which can be used in your theme templates. These are the following:"
+msgstr "I tillæg til ovenstående indstillinger af, hvilken licensinformation der skal medtages på din blog, giver pluginnet dig nogle <em>Skabelon-tags</em>, som du kan bruge i dit temaskabeloner. Det drejer sig om følgende:"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:412
+msgid "Text Hyperlink"
+msgstr "Tekst-hyperlink"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:414
+msgid "Returns the text hyperlink of your current license for use in the PHP code."
+msgstr "Returnerer tekst-hyperlinks for den aktuelle licens til brug i din PHP-kode."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:415
+msgid "Displays the text hyperlink."
+msgstr "Viser tekst-hyperlink."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:419
+msgid "Image Hyperlink"
+msgstr "Billed-hyperlink"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:421
+msgid "Returns the image hyperlink of the current license."
+msgstr "Returnerer billed-hyperlinket for den aktuelle licens."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:422
+msgid "Displays the image hyperlink of the current license."
+msgstr "Viser billed-hyperlinket for den aktuelle licens."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:426
+msgid "License URIs"
+msgstr "Licens-URI&#39;er"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:428
+msgid "Returns the license's URL."
+msgstr "Returnerer licens-URI&#39;er"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:429
+msgid "Returns the license's Deed URL. Usually this is the same URI as returned by the bccl_get_license_url() function."
+msgstr "Returnerer licensens \"Deed-URL\". Dette er sædvanligvis den samme URI, som returneres af funktionen bccl_get_license_url()."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:433
+msgid "Full HTML Code"
+msgstr "Fuld HTML-kode"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:435
+msgid "Returns the full HTML code of the license. This includes the text and the image hyperlinks."
+msgstr "Returnerer fuld HTML-kode med licensen. Dette inkluderer tekst- og billed-hyperlinks."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:436
+msgid "Displays the full HTML code of the license. This includes the text and the image hyperlinks."
+msgstr "Viser fuld HTML-kode med licensen. Dette inkluderer tekst- og billed-hyperlinks."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:440
+msgid "Complete License Block"
+msgstr "Komplet licensblok"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:442
+msgid "Displays a complete license block. This template tag can be used to publish specific original work under the current license or in order to display the license block at custom locations on your website. This function supports the following arguments"
+msgstr "Viser en komplet licensblok. Dette skabelon-tag kan bruges til udgive et konkret originalt værk under den aktuelle licens eller til at vise licensblokken på steder på din blog, som du selv vælger. Funktionen understøtter de følgende argumenter"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:445
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:446
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:447
+msgid "alphanumeric"
+msgstr "alfanumerisk"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:445
+msgid "This argument is used to define the work to be licensed. Its use is optional, when the template tag is used in single-post view. If not defined, the user-defined settings for the default license block are used."
+msgstr "Dette argument bruges til at definere værket, som skal have en licens. Dets brug er valgfri, når skabelon-tagget bruges, når enkelt-indlæg vises. Hvis udefineret, bruges de brugervalgte indstillinger for standardlicensblokken."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:446
+msgid "This argument sets the name of the CSS class that will be used to format the license block. It is optional. If not defined, then the default class <em>cc-block</em> is used."
+msgstr "Dette argument angiver navnet på CSS-klassen, som vil blive brugt til at formattere licensblokken. Det er valgtfrit. Hvis udefineret, bruges standardklassen <em>cc-block</em>."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:447
+msgid "This argument is optional. It can be used in order to control the appearance of the license icon."
+msgstr "Dette argument er valgfrit. Det kan bruges til at kontrollere licensikonets udseende."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:454
+msgid "Licence Documents"
+msgstr "Licensdokumenter"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:456
+msgid "Displays the license's summary document in an <em>iframe</em>."
+msgstr "Viser dokument med resumé af licensen i en <em>iframe</em>."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:457
+msgid "Displays the license's full legal code in an <em>iframe</em>."
+msgstr "Viser hele den juridiske licens i en <em>iframe</em>."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:488
+msgid "Creative Commons"
+msgstr "Creative Commons"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:537
+msgid "Creative Commons License"
+msgstr "Creative Commons License"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:659
+msgid "The"
+msgstr "Værket"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:659
+msgid "by"
+msgstr "af"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:661
+msgid "This work"
+msgstr "Dette værk"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:664
+msgid "ERROR (cc-configurator): you must define the work to be licenced, if not using this template tag in single-post view."
+msgstr "FEJL (cc-configurator): Du skal angive det værk, der skal have en licens, med mindre du kun bruger den, når et enkelt-indlæg vises."
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:666
+msgid "unless otherwise expressly stated"
+msgstr "medmindre andet udtrykkeligt er angivet"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:666
+msgid "is licensed under a"
+msgstr "er licenseret under en"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:670
+msgid "Terms and conditions beyond the scope of this license may be available at"
+msgstr "Vilkår og betingelser udover, hvad der omfattes af denne licens, kan være tilgængelig på"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:695
+msgid "Blog Name"
+msgstr "Blognavn"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:696
+msgid "First + Last Name"
+msgstr "For + efternavn"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:697
+msgid "Last + First Name"
+msgstr "Efter + fornavn"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:698
+msgid "Nickname"
+msgstr "Kaldenavn"
+
+#: d:\wordpress\plugins\creative-commons-configurator-1/cc-configurator.php:699
+msgid "Displayed Name"
+msgstr "Vist navn"
+
