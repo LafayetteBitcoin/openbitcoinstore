@@ -1,0 +1,378 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cc-configurator\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-03-15 03:43+0200\n"
+"Last-Translator: George Notaras <gnotar@gmail.com>\n"
+"Language-Team: George Notaras <gnotar@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: GREECE\n"
+"X-Poedit-SearchPath-0: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons Configurator\n"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:100
+#: Configurator/cc-configurator.php:278
+msgid "License Options"
+msgstr "Ρυθμίσεις Άδειας"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:100
+#: Configurator/cc-configurator.php:487
+msgid "License"
+msgstr "Άδεια"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:173
+msgid "Creative Commons license options saved."
+msgstr "Οι ρυθμίσεις της άδειας Creative Commons αποθηκεύτηκαν."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:181
+msgid "Creative Commons license options deleted from the WordPress database."
+msgstr "Οι ρυθμίσεις της άδειας Creative Commons σβήστηκαν από την βάση δεδομένων του WordPress."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:216
+msgid "Creative Commons license saved."
+msgstr "Η άδεια Creative Commons αποθηκεύτηκε."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:247
+msgid "Select a Creative Commons license"
+msgstr "Επιλέξτε μια άδεια Creative Commons"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:248
+msgid "Welcome to the Creative Commons license configurator for WordPress."
+msgstr "Καλωσήλθατε στον ρυθμιστή αδειών Creative Commons για το WordPress."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:249
+msgid "The following link leads to the Creative Commons license selection engine. After you have selected your license, you will be directed back to this page."
+msgstr "Ο παρακάτω σύνδεσμος οδηγεί στον μηχανισμό επιλογής αδειών Creative Commons. Αφού επιλέξετε την άδειά σας, θα μεταφερθείτε ξανά σε αυτή τη σελίδα."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:250
+msgid "Please"
+msgstr "Παρακαλώ"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:250
+msgid "select a Creative Commons license"
+msgstr "επιλέξτε μια άδεια Creative Commons"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:263
+msgid "Current License"
+msgstr "Τρέχουσα Άδεια"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:267
+msgid "Information"
+msgstr "Πληροφορίες"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:268
+msgid "If you need to use a different license for your blog, press the <em>Reset License</em> button."
+msgstr "Αν θέλετε να χρησιμοποιήσετε μια διαφορετική άδεια για το ιστολόγιό σας, πατήστε το κουμπί <em>Ακύρωση Άδειας</em>."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:269
+msgid "By reseting the license, the saved plugin options are removed from the WordPress database. Consider reseting the license before uninstalling the plugin, so that no trace of it is left in the WordPress database."
+msgstr "Ακυρώνοντας την άδεια, οι αποθηκευμένες ρυθμίσεις σβήνονται από τη βάση δεδομένων του WordPress. Σκεφτείτε να ακυρώσετε την άδεια προτού απεγκαταστήσετε το πρόσθετο, ώστε να μην παραμείνει οτιδήποτε σχετικό με αυτό στη βάση δεδομένων του WordPress."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:272
+msgid "Reset License"
+msgstr "Ακύρωση Άδειας"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:279
+msgid "Here you can choose where and how license information should be added to your blog."
+msgstr "Εδώ μπορείτε να επιλέξετε τον τρόπο και τα σημεία του ιστολογίου σας, στα οποία θα προστεθούν πληροφορίες σχετικές με την άδεια."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:282
+msgid "Page Head (HTML)"
+msgstr "Αρχή Σελίδας (HTML)"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:287
+msgid "Include license information in the page's HTML head. This will not be visible to human visitors, but search engine bots will be able to read it. (Recommended)"
+msgstr "Να συμπεριληφθούν πληροφορίες σχετικές με την άδεια στη αρχική HTML περιοχή της σελίδας. Αυτές δεν θα είναι ορατές στους επισκέπτες, αλλά τα προγράμματα των μηχανών αναζήτησης θα μπορούν να τις διαβάσουν. (Προτείνεται)"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:292
+msgid "Syndicated Content"
+msgstr "Πηγές Δημοσιεύσεων"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:297
+msgid "Include license information in the blog feeds. (Recommended)"
+msgstr "Να συμπεριληφθούν πληροφορίες σχετικές με την άδεια στις πηγές δημοσιεύσεων (Προτείνεται)"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:302
+msgid "Under the published content"
+msgstr "Κάτω από το δημοσιευμένο υλικό"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:303
+msgid "By enabling the following option, a small block of text, which contains links to the author, the work and the used license, is appended to the published content. (Recommended)"
+msgstr "Με την ενεργοποίηση της επόμενης ρύθμισης, ένα πινακίδιο με κείμενο, το οποίο θα περιλαμβάνει συνδέσμους προς τον συγγραφέα, το έργο και την χρησιμοποιούμενη άδεια, θα προστεθεί κάτω από το δημοσιευμένο υλικό. (Προτείνεται)"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:308
+msgid "Add the text block with license information under the published content in single-post view."
+msgstr "Να προστεθεί το πινακίδιο κειμένου με πληροφορίες σχετικές με την άδεια κάτω από το δημοσιευμένο υλικό σε οπτική ενός άρθρου."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:317
+msgid "Include the license image in the text block."
+msgstr "Να συμπεριληφθεί και το εικονίδιο της άδειας μέσα στο πινακίδιο."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:325
+msgid "Include extended information about the published work and its creator. By enabling this option, hyperlinks to the published content and its creator/publisher are also included into the license statement inside the block. This, by being an attribution example itself, will generally help others to attribute the work to you."
+msgstr "Να συμπεριληφθούν εκτεταμένες πληροφορίες για το δημοσιευμένο υλικό και τον δημιουργό του. Ενεργοποιώντας αυτήν την επιλογή, σύνδεσμοι προς το δημοσιευμένο υλικό και τον δημιουργό/εκδότη του συμπεριλαμβάνονται στην δήλωση άδειας μέσα στο πινακίδιο. Αυτό γενικότερα δρα και ως παράδειγμα για όσους χρειαστεί να αποδώσουν το έργο σε εσάς."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:342
+msgid "If extended information about the published work has been enabled, then you can choose which name will indicate the creator of the work. By default, the blog name is used."
+msgstr "Εάν έχει ενεργοποιηθεί η επιλογή των εκτεταμένων πληροφοριών σχετικά με το έργο, τότε μπορείτε να επιλέξετε ποιο όνομα θα υποδεικνύει τον δημιουργό του έργου. Εξ'ορισμού χρησιμοποιείται το όνομα του ιστολογίου."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:350
+msgid "If you have added any extra permissions to your license, provide the URL to the webpage that contains them. It is highly recommended to use absolute URLs, for example"
+msgstr "Εάν έχετε θέσει επιπρόσθετους περιορισμούς στην άδειά σας, τότε γράψτε τη διεύθυνση της ιστοσελίδας που τους περιέχει. Προτείνεται ανεπιφύλαχτα η χρήση απόλυτων διευθύνσεων, για παράδειγμα"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:355
+msgid "Colors of the license block"
+msgstr "Χρώματα του πινακιδίου της άδειας"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:362
+msgid "Set a color for the text that appears within the block (does not affect hyperlinks)"
+msgstr "Ορίστε ένα χρώμα για το κείμενο που εμφανίζεται μέσα στο πινακίδιο (δεν επηρεάζει τους συνδέσμους)"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:364
+#: Configurator/cc-configurator.php:371
+#: Configurator/cc-configurator.php:378
+msgid "Default"
+msgstr "Εξ'ορισμού"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:369
+msgid "Set a background color for the block."
+msgstr "Ορίστε ένα χρώμα για το υπόβαθρο του πινακιδίου της άδειας."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:376
+msgid "Set a color for the border of the block."
+msgstr "Ορίστε ένα χρώμα για το περίγραμμα του πινακιδίου της άδειας."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:386
+msgid "Disable the internal formatting of the license block. If the internal formatting is disabled, then the color selections above have no effect any more. You can still format the license block via your own CSS. The <em>cc-block</em> and <em>cc-button</em> classes have been reserved for formatting the license block and the license button respectively."
+msgstr "Απενεργοποίηση της εσωτερικής μορφοποίησης του πινακιδίου της άδειας. Αν η εσωτερική μορφοποίηση απενεργοποιηθεί, τότε οι πιο πάνω επιλογές χρωμάτων δεν έχουν πλέον καμία επίδραση. Μπορείτε όμως να μορφοποιήσετε το πινακίδιο άδειας μέσω του δικού σας CSS stylesheet. Οι κλάσεις <em>cc-block</em> και <em>cc-button</em> έχουν κρατηθεί για τη μορφοποίηση του πινακιδίου άδειας και του εικονιδίου της άδειας αντίστοιχα."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:399
+msgid "Update Options"
+msgstr "Ενημέρωση Ρυθμίσεων"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:405
+msgid "Advanced Info"
+msgstr "Για Προχωρημένους"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:406
+msgid "Apart from the options above for the inclusion of licensing information in your blog, this plugin provides some <em>Template Tags</em>, which can be used in your theme templates. These are the following:"
+msgstr "Εκτός από τις παραπάνω ρυθμίσεις για την προσθήκη πληροφοριών σχετικών με την άδεια στο ιστολόγιό σας, αυτό το πρόσθετο παρέχει και μερικά <em>Template Tags</em>, τα οποία μπορούν να χρησιμοποιηθούν στα θέματα εμφάνισης. Αυτά είναι τα παρακάτω:"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:411
+msgid "Text Hyperlink"
+msgstr "Σύνδεσμος κειμένου"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:413
+msgid "Returns the text hyperlink of your current license for use in the PHP code."
+msgstr "Επιστρέφει τον σύνδεσμο κειμένου της τρέχουσας άδειας για χρήση μέσα στον κώδικα PHP."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:414
+msgid "Displays the text hyperlink."
+msgstr "Δείχνει τον σύνδεσμο κειμένου."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:418
+msgid "Image Hyperlink"
+msgstr "Σύνδεσμος Εικόνας"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:420
+msgid "Returns the image hyperlink of the current license."
+msgstr "Επιστρέφει τον σύνδεσμο εικόνας της τρέχουσας άδειας."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:421
+msgid "Displays the image hyperlink of the current license."
+msgstr "Δείχνει τον σύνδεσμο εικόνας της τρέχουσας άδειας."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:425
+msgid "License URIs"
+msgstr "Διευθύνσεις άδειας"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:427
+msgid "Returns the license's URL."
+msgstr "Επιστρέφει τη διεύθυνση της άδειας."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:428
+msgid "Returns the license's Deed URL. Usually this is the same URI as returned by the bccl_get_license_url() function."
+msgstr "Επιστρέφει την διεύθυνση Deed της άδειας. Συνήθως αυτή η διεύθυνση είναι η ίδια με εκείνη που επιστρέφεται από την συνάρτηση bccl_get_license_url()."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:432
+msgid "Full HTML Code"
+msgstr "Όλοκληρος ο κώδικας HTML"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:434
+msgid "Returns the full HTML code of the license. This includes the text and the image hyperlinks."
+msgstr "Επιστρέφει ολόκληρο τον κώδικα HTML της άδειας. Αυτός συμπεριλαμβάνει συνδέσμους κειμένου και εικόνας."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:435
+msgid "Displays the full HTML code of the license. This includes the text and the image hyperlinks."
+msgstr "Δείχνει ολόκληρο τον κώδικα HTML της άδειας. Αυτός συμπεριλαμβάνει συνδέσμους κειμένου και εικόνας."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:439
+msgid "Complete License Block"
+msgstr "Ολοκληρωμένο Πινακίδιο Άδειας"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:441
+msgid "Displays a complete license block. This template tag can be used to publish specific original work under the current license or in order to display the license block at custom locations on your website. This function supports the following arguments"
+msgstr "Δείχνει ένα ολοκληρωμένο πινακίδιο άδειας. Αυτή η συνάρτηση μπορεί να χρησιμοποιηθεί για την έκδοση συγκεκριμένου αυθεντικού έργου υπό την τρέχουσα άδεια ή για την προβολή του πινακιδίου άδειας σε κάποια διαφορετική θέση στο ιστολόγιό σας. Η συνάρτηση αυτή υποστηρίζει τις παρακάτω παραμέτρους"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:444
+#: Configurator/cc-configurator.php:445
+#: Configurator/cc-configurator.php:446
+msgid "alphanumeric"
+msgstr "αλφαριθμητικό"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:444
+msgid "This argument is used to define the work to be licensed. Its use is optional, when the template tag is used in single-post view. If not defined, the user-defined settings for the default license block are used."
+msgstr "Αυτή η παράμετρος χρησιμοποιείται για να οριστεί το έργο που εκδίδεται υπό την άδεια. Η χρήση του είναι προαιρετική, όταν η συνάρτηση χρησιμοποιείται σε οπτική ενός άρθρου. Αν δεν οριστεί, τότε χρησιμοποιούνται οι ορισμένες από το χρήστη ρυθμίσεις για το εξ'ορισμού πινακίδιο άδειας."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:445
+msgid "This argument sets the name of the CSS class that will be used to format the license block. It is optional. If not defined, then the default class <em>cc-block</em> is used."
+msgstr "Αυτή η παράμετρος θέτει το όνομα της CSS κλάσης που θα χρησιμοποιηθεί για να μορφοποιήσει το πινακίδιο άδειας. Είναι προαιρετική. Αν δεν οριστεί, τότε θα χρησιμοποιηθεί η εξ'ορισμού κλάση <em>cc-block</em>."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:446
+msgid "This argument is optional. It can be used in order to control the appearance of the license icon."
+msgstr "Αυτή η παράμετρος είναι προαιρετική. Μπορεί να χρησιμοποιηθεί για τον έλεγχο της εμφάνισης του εικονιδίου της άδειας."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:453
+msgid "Licence Documents"
+msgstr "Κείμενα Άδειας"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:455
+msgid "Displays the license's summary document in an <em>iframe</em>."
+msgstr "Δείχνει την περίληψη του κειμένου της άδειας σε <em>iframe</em>."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:456
+msgid "Displays the license's full legal code in an <em>iframe</em>."
+msgstr "Δείχνει το πλήρες νομικό κείμενο της άδειας σε <em>iframe</em>."
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:487
+msgid "Creative Commons"
+msgstr "Creative Commons"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:536
+msgid "Creative Commons License"
+msgstr "Creative Commons Άδεια"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:658
+msgid "The"
+msgstr "Το"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:658
+msgid "by"
+msgstr "από"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:660
+msgid "This work"
+msgstr "Αυτό το έργο"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:663
+msgid "ERROR (cc-configurator): you must define the work to be licenced, if not using this template tag in single-post view."
+msgstr "ΛΑΘΟΣ (cc-configurator): πρέπει να ορίσετε το έργο που θα εκδοθεί υπό την άδεια, εφόσον δεν χρησιμοποιείτε αυτή τη συνάρτηση σε οπτική ενός άρθρου. "
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:665
+msgid "unless otherwise expressly stated"
+msgstr "εκτός αν έχει ρητώς διατυπωθεί διαφορετικά"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:665
+msgid "is licensed under a"
+msgstr "εκδίδεται υπό μία"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:669
+msgid "Terms and conditions beyond the scope of this license may be available at"
+msgstr "Όροι και συνθήκες πέραν του πλαισίου αυτής της άδειας ενδέχεται να είναι διαθέσιμα στο"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:694
+msgid "Blog Name"
+msgstr "Όνομα Ιστολογίου"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:695
+msgid "First + Last Name"
+msgstr "Όνομα + Επίθετο"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:696
+msgid "Last + First Name"
+msgstr "Επίθετο + Όνομα"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:697
+msgid "Nickname"
+msgstr "Ψευδώνυμο"
+
+#: /home/gnot/documents/programming/php/WordPress Plugin - Creative Commons
+#: Configurator/cc-configurator.php:698
+msgid "Displayed Name"
+msgstr "Δημόσια προβαλλόμενο όνομα"
+

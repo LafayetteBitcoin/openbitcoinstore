@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Creative Commons Configurator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-24 15:53+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jani Uusitalo <jani@mummila.net>\n"
+"Language-Team: Jani Uusitalo <jani@mummila.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Finnish\n"
+"X-Poedit-Country: FINLAND\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /home/jani/creative-commons-configurator/\n"
+"X-Poedit-SearchPath-0: /home/jani/creative-commons-configurator\n"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:101
+#: /home/jani/creative-commons-configurator/cc-configurator.php:279
+msgid "License Options"
+msgstr "Lisenssiasetukset"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:101
+#: /home/jani/creative-commons-configurator/cc-configurator.php:488
+msgid "License"
+msgstr "Lisenssi"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:174
+msgid "Creative Commons license options saved."
+msgstr "Creative Commons -lisenssiasetukset tallennettiin."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:182
+msgid "Creative Commons license options deleted from the WordPress database."
+msgstr "Creative Commons -lisenssiasetukset poistettiin WordPressin tietokannasta."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:217
+msgid "Creative Commons license saved."
+msgstr "Creative Commons -lisenssi tallennettiin."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:248
+msgid "Select a Creative Commons license"
+msgstr "Valitse Creative Commons -lisenssi"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:249
+msgid "Welcome to the Creative Commons license configurator for WordPress."
+msgstr "Tervetuloa tekemään WordPressin Creative Commons -lisenssiasetuksia."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:250
+msgid "The following link leads to the Creative Commons license selection engine. After you have selected your license, you will be directed back to this page."
+msgstr "Seuraavan linkin kautta siirryt Creative Commons -lisenssin valintaan. Lisenssin valittuasi sinut ohjataan takaisin tälle sivulle."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:251
+msgid "Please"
+msgstr "Ole hyvä,"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:251
+msgid "select a Creative Commons license"
+msgstr "valitse Creative Commons -lisenssi"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:264
+msgid "Current License"
+msgstr "Nykyinen lisenssi"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:268
+msgid "Information"
+msgstr "Ohjeita"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:269
+msgid "If you need to use a different license for your blog, press the <em>Reset License</em> button."
+msgstr "Jos haluat vaihtaa blogisi lisenssiä, valitse <em>Nollaa lisenssi</em>."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:270
+msgid "By reseting the license, the saved plugin options are removed from the WordPress database. Consider reseting the license before uninstalling the plugin, so that no trace of it is left in the WordPress database."
+msgstr "Lisenssin nollaus poistaa lisäosan asetukset WordPressin tietokannasta. Lisenssi kannattaa nollata myös ennen lisäosan poistamista, jottei siitä jäisi jälkiä tietokantaan."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:273
+msgid "Reset License"
+msgstr "Nollaa lisenssi"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:280
+msgid "Here you can choose where and how license information should be added to your blog."
+msgstr "Tässä kohtaa voit valita missä ja miten lisenssin tiedot blogissasi esitetään."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:283
+msgid "Page Head (HTML)"
+msgstr "Sivuston otsikkotiedot (HTML)"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:288
+msgid "Include license information in the page's HTML head. This will not be visible to human visitors, but search engine bots will be able to read it. (Recommended)"
+msgstr "Sisällytä tieto lisenssistä sivun HTML-otsikkotietoihin. Tämä tieto ei näy ihmiskäyttäjille, mutta hakukoneet pystyvät lukemaan sen. (Suositeltu asetus)"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:293
+msgid "Syndicated Content"
+msgstr "Verkkosyötteet"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:298
+msgid "Include license information in the blog feeds. (Recommended)"
+msgstr "Sisällytä tieto lisenssistä blogin syötteisiin. (Suositeltu asetus)"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:303
+msgid "Under the published content"
+msgstr "Julkaistun sisällön alla"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:304
+msgid "By enabling the following option, a small block of text, which contains links to the author, the work and the used license, is appended to the published content. (Recommended)"
+msgstr "Seuraavan valinnan käyttöönoton myötä julkaistun aineiston perään lisätään lyhyt tekstikappale, jossa on linkit tietoihin kirjoittajasta, teoksesta sekä käytetystä lisenssistä. (Suositeltu asetus)"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:309
+msgid "Add the text block with license information under the published content in single-post view."
+msgstr "Lisää lisenssin tiedot julkaistun sisällön perään yksittäistä merkintää luettaessa."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:318
+msgid "Include the license image in the text block."
+msgstr "Sisällytä tekstikappaleeseen lisenssin kuvake."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:326
+msgid "Include extended information about the published work and its creator. By enabling this option, hyperlinks to the published content and its creator/publisher are also included into the license statement inside the block. This, by being an attribution example itself, will generally help others to attribute the work to you."
+msgstr "Sisällytä laajennettu selvitys teoksesta ja sen luojasta. Tämän valinnan käyttöön otettuasi lisenssiin sisällytetään linkki julkaistuun aineistoon ja sen tekijään."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:343
+msgid "If extended information about the published work has been enabled, then you can choose which name will indicate the creator of the work. By default, the blog name is used."
+msgstr "Jos laajennettu selvitys on käytössä, voit valita millä nimellä teoksen luojaan viitataan. Oletuksena käytetään blogin nimeä."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:351
+msgid "If you have added any extra permissions to your license, provide the URL to the webpage that contains them. It is highly recommended to use absolute URLs, for example"
+msgstr "Jos lisenssiisi sisältyy lisäehtoja, syötä tähän ehdot selostavan verkkosivun osoite. Kannattaa käyttää absoluuttista osoitetta, kuten esimerkiksi"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:356
+msgid "Colors of the license block"
+msgstr "Lisenssikappaleen väritys"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:363
+msgid "Set a color for the text that appears within the block (does not affect hyperlinks)"
+msgstr "Valitse kappaleen sisältämän tekstin väri (ei vaikuta linkkien väritykseen)"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:365
+#: /home/jani/creative-commons-configurator/cc-configurator.php:372
+#: /home/jani/creative-commons-configurator/cc-configurator.php:379
+msgid "Default"
+msgstr "Oletus"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:370
+msgid "Set a background color for the block."
+msgstr "Valitse kappaleen taustaväri."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:377
+msgid "Set a color for the border of the block."
+msgstr "Valitse kappaleen reunuksen väri."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:387
+msgid "Disable the internal formatting of the license block. If the internal formatting is disabled, then the color selections above have no effect any more. You can still format the license block via your own CSS. The <em>cc-block</em> and <em>cc-button</em> classes have been reserved for formatting the license block and the license button respectively."
+msgstr "Lisenssikappaleen sisäinen muotoilu pois käytöstä. Mikäli sisäinen muotoilu on pois käytöstä, ylläolevilla värivalinnoilla ei ole vaikutusta. Tämän jälkeen voit määrätä lisenssikappaleen tyylin omassa tyylitiedostossasi. Lisenssikappaleen CSS-luokka on <em>cc-block</em>, lisenssin kuvakkeen luokka puolestaan <em>cc-button</em>."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:400
+msgid "Update Options"
+msgstr "Tallenna asetukset"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:406
+msgid "Advanced Info"
+msgstr "Ohjeita edistyneille käyttäjille"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:407
+msgid "Apart from the options above for the inclusion of licensing information in your blog, this plugin provides some <em>Template Tags</em>, which can be used in your theme templates. These are the following:"
+msgstr "Ylläolevien asetusten lisäksi tämä lisäosa tarjoaa käyttöön <em>ulkoasukoodeja</em>, joita voidaan käyttää ulkoasutiedostoissa. Ulkoasukoodit ovat:"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:412
+msgid "Text Hyperlink"
+msgstr "Tekstilinkki"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:414
+msgid "Returns the text hyperlink of your current license for use in the PHP code."
+msgstr "Palauttaa tekstimuotoisen linkin käytössä olevaan lisenssiin."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:415
+msgid "Displays the text hyperlink."
+msgstr "Näyttää tekstimuotoisen linkin."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:419
+msgid "Image Hyperlink"
+msgstr "Kuvalinkki"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:421
+msgid "Returns the image hyperlink of the current license."
+msgstr "Palauttaa kuvakelinkin käytössä olevaan lisenssiin."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:422
+msgid "Displays the image hyperlink of the current license."
+msgstr "Näyttää kuvakelinkin."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:426
+msgid "License URIs"
+msgstr "Lisenssin osoite"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:428
+msgid "Returns the license's URL."
+msgstr "Palauttaa lisenssin osoitteen."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:429
+msgid "Returns the license's Deed URL. Usually this is the same URI as returned by the bccl_get_license_url() function."
+msgstr "Palauttaa lisenssin Deed-osoitteen, joka on useimmiten sama kuin bccl_get_license_url()-funktion palauttama osoite."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:433
+msgid "Full HTML Code"
+msgstr "Täysi HTML-koodi"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:435
+msgid "Returns the full HTML code of the license. This includes the text and the image hyperlinks."
+msgstr "Palauttaa lisenssin koko HTML-koodin, joka sisältää teksti- ja kuvakemuotoiset linkit."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:436
+msgid "Displays the full HTML code of the license. This includes the text and the image hyperlinks."
+msgstr "Näyttää lisenssin HTML-koodin, joka sisältää teksti- ja kuvakemuotoiset linkit."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:440
+msgid "Complete License Block"
+msgstr "Koko lisenssikappale"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:442
+msgid "Displays a complete license block. This template tag can be used to publish specific original work under the current license or in order to display the license block at custom locations on your website. This function supports the following arguments"
+msgstr "Näyttää koko lisenssikappaleen. Tätä ulkoasukoodia voidaan käyttää määrättyjen teosten julkaisemiseen nykyisellä lisenssillä, tai lisenssin näyttämiseen valinnaisissa paikoissa sivustollasi. Funktio tukee seuraavia parametreja"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:445
+#: /home/jani/creative-commons-configurator/cc-configurator.php:446
+#: /home/jani/creative-commons-configurator/cc-configurator.php:447
+msgid "alphanumeric"
+msgstr "kirjainnumeerinen"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:445
+msgid "This argument is used to define the work to be licensed. Its use is optional, when the template tag is used in single-post view. If not defined, the user-defined settings for the default license block are used."
+msgstr "Tätä parametria käytetään lisensoitavan työn määrittelemiseen. Se on valinnainen, jos ulkoasukoodia käytetään yksittäisiä merkintöjä näytettäessä. Mikäli parametria ei anneta, käytetään lisenssikappaleen asetusta."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:446
+msgid "This argument sets the name of the CSS class that will be used to format the license block. It is optional. If not defined, then the default class <em>cc-block</em> is used."
+msgstr "Tämä valinnainen parametri määrää lisenssikappaleen CSS-luokan. Mikäli parametria ei määritellä, käytetään oletusluokkaa <em>cc-block</em>."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:447
+msgid "This argument is optional. It can be used in order to control the appearance of the license icon."
+msgstr "Tätä valinnaista parametria voidaan käyttää lisenssikuvakkeen ulkoasun määrittelyssä."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:454
+msgid "Licence Documents"
+msgstr "Lisenssi asiakirjoina"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:456
+msgid "Displays the license's summary document in an <em>iframe</em>."
+msgstr "Näyttää lisenssin tiivistelmän <em>iframe</em>-elementissä."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:457
+msgid "Displays the license's full legal code in an <em>iframe</em>."
+msgstr "Näyttää lisenssin koko tekstin <em>iframe</em>-elementissä."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:488
+msgid "Creative Commons"
+msgstr "Creative Commons"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:537
+msgid "Creative Commons License"
+msgstr "Creative Commons -lisenssi"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:659
+msgid "The"
+msgstr ""
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:659
+msgid "by"
+msgstr "jonka tekijä on"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:661
+msgid "This work"
+msgstr "Tämä teos"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:664
+msgid "ERROR (cc-configurator): you must define the work to be licenced, if not using this template tag in single-post view."
+msgstr "VIRHE (cc-configurator): lisensoitava teos täytyy määritellä, kun tätä ulkoasukoodia käytetään muualla kuin yksittäisiä merkintöjä näytettäessä."
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:666
+msgid "unless otherwise expressly stated"
+msgstr "jollei toisin mainita"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:666
+msgid "is licensed under a"
+msgstr "annetaan käyttöön lisenssillä"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:670
+msgid "Terms and conditions beyond the scope of this license may be available at"
+msgstr "Aineiston käyttöä tämän lisenssin lisäksi koskevia ehtoja on saatavilla osoitteessa"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:695
+msgid "Blog Name"
+msgstr "Blogin nimi"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:696
+msgid "First + Last Name"
+msgstr "Etu- ja sukunimi"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:697
+msgid "Last + First Name"
+msgstr "Suku- ja etunimi"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:698
+msgid "Nickname"
+msgstr "Lempinimi"
+
+#: /home/jani/creative-commons-configurator/cc-configurator.php:699
+msgid "Displayed Name"
+msgstr "Näyttönimi"
+
